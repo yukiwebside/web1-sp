@@ -2,4 +2,4 @@
 layout: front
 ---
 
-Hello there
+Hello there too. Yay.
