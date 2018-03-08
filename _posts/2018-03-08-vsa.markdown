@@ -1,6 +1,7 @@
 ---
 title: "VSA on AIGA Eye on Design"
 description: "New branding work"
+author: "Anne Other"
 ---
 
 <h3>This is a third-level hed</h3>
