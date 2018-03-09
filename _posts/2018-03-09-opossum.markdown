@@ -1,5 +1,6 @@
 ---
 title: "Opossums are wise and perky"
+color: "Sort of greyish, but with silky bits like an opossum's marsupium"
 ---
 
 Here's an opossum! 
