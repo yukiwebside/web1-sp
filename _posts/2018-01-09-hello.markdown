@@ -1,13 +1,16 @@
 ---
-title: "Hello world! I'm a post."
+title: "Hello world! I am a post."
 description: "This text shows up in search engine previews"
 ---
 
 This is a post. Rename the file and replace it with a real post.
 
-I'm a paragraph.
+<h3>Hed Level Three</h3>
 
-This is another graf.
+Paragraph one is here! It's a quite *excited* paragraph. It wants to be paragraphing.
 
-Hello paragraph!
+### Hed level three (but lowercase)
 
+Paragraph two is rather more sedentary. It sits happily but doesn't get all that excited.
+
+Another graf!
