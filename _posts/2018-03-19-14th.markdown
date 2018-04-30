@@ -19,7 +19,7 @@ Here's an 14th street!
 				because I want to continue to identify the strange phenomenon. After a few traffic lights, 
 				I only saw three black people working at a McDonald's in U street. </p>
 </div>
-<img src="img/14th.jpg" alt="photo of street" class="photo-street">
+<img src="web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
 
 [Page with 14th street!!!!]()
 
