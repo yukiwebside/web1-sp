@@ -18,7 +18,8 @@ Here's an 14th street!
 				the restaurants mostly are filled with the white. I start trying to find black people 
 				because I want to continue to identify the strange phenomenon. After a few traffic lights, 
 				I only saw three black people working at a McDonald's in U street. </p>
-		</div>
+</div>
+<img src="img/14th.jpg" alt="photo of street" class="photo-street">
 
 [Page with 14th street!!!!]()
 
