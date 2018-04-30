@@ -4,7 +4,8 @@ color: "Sort of greyish, but with silky bits like an opossum's marsupium"
 ---
 
 Here's an 14th street! 
-
+<img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
+<img src="/web1-sp/img/studio.jpg" alt="photo of street" class="photo-street">
 <div class="context-14th">
 			<p>On the map, 14th street is one of the main north-south lines in Washington, DC. 
 				And 14 street has a good geographical position, not just because of the short of 
@@ -19,9 +20,9 @@ Here's an 14th street!
 				because I want to continue to identify the strange phenomenon. After a few traffic lights, 
 				I only saw three black people working at a McDonald's in U street. </p>
 </div>
-<img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
 
-[Page with 14th street!!!!]()
 
-[Real page 14th street!!!!!](https://www.washingtonpost.com/local/yes-14th-street-may-be-better-these-days-but-something-vital-is-missing/2015/07/21/f144a65c-2fce-11e5-8f36-18d1d501920d_story.html?utm_term=.f45db1eba278)
+[Location of 14 street](https://www.google.com/maps/place/14th+St+NW,+Washington,+DC/@38.9390892,-77.034647,17.55z/data=!4m5!3m4!1s0x89b7c817cef6a3af:0xa3893cee7bb7b25d!8m2!3d38.938678!4d-77.0327217)
+
+[Real page 14th street](https://www.washingtonpost.com/local/yes-14th-street-may-be-better-these-days-but-something-vital-is-missing/2015/07/21/f144a65c-2fce-11e5-8f36-18d1d501920d_story.html?utm_term=.f45db1eba278)
 
