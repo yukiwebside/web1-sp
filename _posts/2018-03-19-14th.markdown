@@ -1,6 +1,6 @@
 ---
 title: "14th street"
-color: "Sort of greyish, but with silky bits like an opossum's marsupium"
+color: "Sort of greyish"
 ---
 
 <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
