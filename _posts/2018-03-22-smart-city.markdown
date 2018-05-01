@@ -9,4 +9,4 @@ color: "Sort of greyish"
 <p>Smart technologies are now part and parcel of the contemporary generation with wearable monitoring health conditions, apps controlling cars and home appliances sending usage reports to manufacturers. Cities are focusing on ways which they can boost healthcare through cloud computing in areas of delivering emergency services and providing top care to the elderly. Connected neighborhoods for the elderly are cropping up in some cities in the US. Amsterdam already has a “Smart Citizen Kit” that measures noise levels, temperature, carbon dioxide, nitrogen oxide, light intensity and humidity in each neighborhood (Amsterdam City).  Lifestyle is changing and becoming better for the communities living in smart cities. Amazon has already piloted programs to enable delivery of goods via drones. Surveillance cameras and weather sensors foster the security and safety of the people by feeding emergency teams with first-hand information. </P>
 </div>
 
-[reading the whole source](http://www.mdpi.com/1424-8220/13/1/393)
+[read the whole source](http://www.mdpi.com/1424-8220/13/1/393)
