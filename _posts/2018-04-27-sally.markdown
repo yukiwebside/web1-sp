@@ -3,10 +3,10 @@ title: "Sally Mann"
 color: "Blue"
 ---
 <div class="photo-sally">
-  <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
-  <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
-  <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
-  <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/sally.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/sally1.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/sally2.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/sally3.jpg" alt="photo of street" class="photo-street">
  </div>
 <div class="context">
   <p>Sally Mann, who was born in Virginia 1951, is a one of the most famous photographers. From the introduction of National Gallery, I have known. Sally Mann focus on different works in the different time, such as Early Work, At Twelve, Family Pictures, Southern Landscapes, Battlefields, Body Farm, Faces, Proud Flesh, Ambrotypes. Sally Mann’s works are all very reality, creativity, and narrative. She is good at expressing the social problems of black and white in her photos.</p>
