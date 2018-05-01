@@ -1,0 +1,22 @@
+---
+title: "Reflect to Carina Giesen's book review"
+color: "red"
+---
+
+
+<div class="context">
+  <p>I input some keywords like the book review, Adam Benforado's Unfair in the Google engine, 
+  and then I find Carina Giesen’s review of this book.  I agree with Carina Giesen’s view that
+  criminal injustice actually exists in the society, including bias and false labels in people 
+  minds, coercionary confession, and using a mug shot to judge suspects. These things are all that
+  we ignore when we are in the process of looking for real prisoners. From the perspective of my, 
+  Carina Giesen’s book review possesses explicit structure about Unfair: The New Science of Criminal
+  Injustice because The author firstly claims brief introductions of this book, and then states her argument
+  that “unfair is a book about a lot of things that are wrong with the U.S. legal system.” Continually, Giesen
+  introduces roughly nine chapters which are included in the book. In my view, the author should review every 
+  chapter with combining some specific examples and quotations written in the Unfair to give good understanding
+  for readers. Finally, the author writes the reason why she recommends others to read, which I think is one of 
+  the most important parts in the book review.</p>
+</div>
+
+[real Carina Giesen's book review](http://www.in-mind.org/book-reviews/unfair-the-new-science-of-criminal-injustice)
