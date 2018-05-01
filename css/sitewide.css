@@ -33,11 +33,6 @@ body {
 	color: #222;
 }
 
-/*	Generally, you will only want one container element in
-	the document, wrapping around the main content area. 
-	If you have more than one container, you are probably doing
-	something wrong. 	
-*/
 .container {
 	margin-top: 1em;
 	margin-right: auto;
@@ -47,5 +42,9 @@ body {
 	max-width: 1000px;
 	padding: 2em;
 	border: 5px solid #eee;
+	background:#F0F7F7;
 }
-
+.contex-14th {
+	width:400px;
+	margin-left:1em;
+}
