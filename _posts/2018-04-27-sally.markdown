@@ -1,1 +1,17 @@
+---
+title: "Sally Mann"
+color: "Blue"
+---
+<div class="photo-sally">
+  <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
+ </div>
+<div class="context">
+  <p>Sally Mann, who was born in Virginia 1951, is a one of the most famous photographers. From the introduction of National Gallery, I have known. Sally Mann focus on different works in the different time, such as Early Work, At Twelve, Family Pictures, Southern Landscapes, Battlefields, Body Farm, Faces, Proud Flesh, Ambrotypes. Sally Mann’s works are all very reality, creativity, and narrative. She is good at expressing the social problems of black and white in her photos.</p>
+In the all, my favorite is the series of landscape of Alabama, Mississippi, Virginia, and Georgia. She uses her camera to shot with damaged lenses. This requires the artist to use her hand as a shutter. Especially, the photo, Deep South, Bridge on Tallabatcbie, 1998, can be the core of the series of work. From the below picture, It shows the bridge in the center of the photo. Above the bridge is sky, and below the bridge is river as if the bridge is the dividing line between birth and death. In the foreground, a branch is in from the left like the scrawny-fingered hand of death. In the composition, the whole of this photo is very balanced according to the color. Bridge is black, but the sky and the river are both lighter, which causes a high contrast. Also in the deeper background, the Deep South is to imitate the road of Emmett Till’s death, a fourteen-year-old African American from Chicago, and murdered due to falsely accused of flirting with a white woman. Therefore, the photo is not only a photo, but also a narrative. </p>
+<p>In addition, in the these photographs are marked by the scratches, light leaks, and shifts in focus that were part of the photographic process as it developed, which is might a character belonged to Sally Mann’s works.</p>
+</div>
 
+[Know more about Sally Mann](https://art21.org/artist/sally-mann/?gclid=EAIaIQobChMIsP_Rpofl2gIVCEsNCh1lUwmDEAAYAiAAEgLrWvD_BwE)
