@@ -1,5 +1,5 @@
 ---
-title: "Choose walking or jogging"
+title: "Choose walking or jogging--Which will be more healthier?"
 color: "green"
 ---
 <img src="/web1-sp/img/walking.jpg" alt="photo of walking" class="photo-walking">
