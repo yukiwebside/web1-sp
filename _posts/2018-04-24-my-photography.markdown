@@ -1,12 +1,12 @@
 ---
 title: "My own photograpgy--<i>Enjoy the life</i>"
-color: "Sort of greyish"
+color: "black and white"
 ---
 <dic class=photo-my">
-  <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
-  <img src="/web1-sp/img/studio.jpg" alt="photo of street" class="photo-street">
-  <img src="/web1-sp/img/studio.jpg" alt="photo of street" class="photo-street">
-  <img src="/web1-sp/img/studio.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/own1.jpg" alt="photo of street" class="photo-own">
+  <img src="/web1-sp/img/own2.jpg" alt="photo of street" class="photo-own">
+  <img src="/web1-sp/img/own3.jpg" alt="photo of street" class="photo-own">
+  <img src="/web1-sp/img/own4.jpg" alt="photo of street" class="photo-own">
 </div>
 <div class="context">
   <p>Everyone is ordinary, but he or she also possesses special status in the society. 
