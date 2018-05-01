@@ -1,0 +1,11 @@
+---
+title: "Choose walking or jogging"
+color: "green"
+---
+<img src="/web1-sp/img/walking.jpg" alt="photo of walking" class="photo-walking">
+<div class="context">
+    <p>From the article, it shows that choosing running or jogging depends on what you are hoping to achieve. From the recent     research in Medicine & Science in Sports & Exercise, it shows that “Greater Weight Loss from Running than Walking” at at       Lawrence Berkeley National Laboratory in Berkeley, California. First of all, running can burn more calories than walking.     Secondly, running have influence on appetite. In the survey of nine experienced female runners and 10 committed female         walkers, it claims that a peptide YY, which can suppress appetite, exists more in the runners’ bodies than in the walkers’     bodies. In the aspect of health, walking is more important than running because walking possess a higher proportion of         reducing the risk of heart disease than running. But in the whole, running and walking are both healthier than sitting on     the chair.</P>
+  <p>I agree with this argument, sitting on the chair has many disadvantages like digestion, brain damage, leg disorders,       heart problems, degeneration of muscles, posture defects, obesity and so on. Therefore, as long as you don't sit all day,     walking or running are both good for your health. But if you want to lose more fat, the foundation of running is better than   walking’s because you use the same time can run more miles.</p>
+</div>
+
+[real page walking](https://well.blogs.nytimes.com/2013/05/29/is-it-better-to-walk-or-run/)
