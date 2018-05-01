@@ -1,1 +1,16 @@
+---
+title: "Walk into Frank DiPerna world"
+color: "Sort of greyish"
+---
+<div class="photo-frank">
+  <img src="/web1-sp/img/frank.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/frank1.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/frank2.jpg" alt="photo of street" class="photo-street">
+  <img src="/web1-sp/img/frank3.jpg" alt="photo of street" class="photo-street">
+</div>
+<div class="context">
+  <p>If I were to summarize this feeling in one sentence, it would be like this: at the first glance, I understood what it was trying to say. He took photos in different areas such as early black and white, early color, different social and desert landscape, portraits, industry, studio, and so on. Tones of Frank’s photography is almost to reflect the background of society. Therefore, Photography of Frank is a story. His title of photography is cloning to nature. He uses more environment and less people to show his experience. For example, mountains, rivers, sea, ground, trees occupy huge space so that it is difficult so see some details. However, according to the Frank’s photos, it can show details of landscape to help me to understand where the landscape is desolate, where the landscape is spectacular, where the landscape is beautiful. In addition, in these landscapes, he uses different exposure to represent the characteristic of different landscapes.</p>
+<p>The most attractive photo is Studio Interior Pontiac, in Michigan 1978. It is simple because I can only see the roofs, walls, bricks, window from the picture. Frank catches good angles from this studio so that the composition of photography is open and balanced. For example, you can see many angles which represents the roof connecting walls and walls connecting the ground. Its 3-D shapes is very strong, which can be distinguished from by use of light and shadow. As if I stand in this studio. Hence, the photo has a strong geometrical shape. Suitable exposure makes its color have a deep contrast between outside and inside. In the studio, Frank use the light from outside to make the color of whole room very hierarchical. I can really know that the place is old and little dirty.</p>
+</div>
 
+[Know more about Frank DiPerna](http://www.frankdiperna.com/Artist.asp?ArtistID=44966&Akey=E7ACM7S4)
