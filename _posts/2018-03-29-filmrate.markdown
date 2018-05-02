@@ -4,7 +4,7 @@ color: "orange"
 ---
 
 <img src="/web1-sp/img/panda.jpg" alt="photo of film" class="photo-film">
-<div class="context">
+
   <p>Today I have reviewed a light-hearted film, Kung Fu Panda which was directed in 2008. 
   This film is comedic cartoon which can always give people fun so that it is a good way for
   people to release pressure. The plot of forty-five minutes showed that lazy panda was addicted 
@@ -17,4 +17,4 @@ color: "orange"
   learning Kung Fu. When he gained encouragements of others, he could be more confident and possess more 
   perseverance to finish training. Also, his classmates accompanied him to overcome challenging This phenomenon
   is called collectivism which belongs to the character of Chinese. Hence, I rate this film at 5 stars. </p>
-</div>
+
