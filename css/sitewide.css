@@ -44,7 +44,7 @@ body {
 	background:#F0F7F7;
 }
 .context {
-	width:400px;
+	width:600px;
 	height:auto;
 }
 .photo-street {
@@ -67,4 +67,7 @@ h2 {
 @media (max-width: 800px) {
 	.context{
 		margin:1em;
+	}
+	.photo-frank,.photo-sally {
+		grid-column: 1 / 3;
 }
