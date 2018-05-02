@@ -56,7 +56,7 @@ body {
 .photo-frank {
 	margin: 3em 0 0 0;
 	padding: 0 1rem ;
-        max-width:550px;
+        max-width:700px;
 	display: grid;
 	grid-template-columns: 1fr 1fr ;
 	grid-gap: 1rem;
