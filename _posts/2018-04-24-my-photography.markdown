@@ -2,7 +2,7 @@
 title: "My own photograpgy--<i>Enjoy the life</i>"
 color: "black and white"
 ---
-<dic class=photo-my">
+<div class=photo-my">
   <img src="/web1-sp/img/own1.jpg" alt="photo of street" class="photo-own">
   <img src="/web1-sp/img/own2.jpg" alt="photo of street" class="photo-own">
   <img src="/web1-sp/img/own3.jpg" alt="photo of street" class="photo-own">
