@@ -4,9 +4,9 @@ color: "black and white"
 ---
 
 <img src="/web1-sp/img/weems.jpg" alt="photo of weems" class="photo-weems">
-<div class="context">
+
   <p>Carrie Mae Weems is one of my favorite photographers, because she always using narrative forms such as social documentary, tableaux, self-portrait, and oral history in her own photography.  More specifically, it is adept at using its own biography to show some truth. About this exhibit, it shows twenty staged photographs that depict the course of relationships between Weems and her lover, her friends and her daughter. Besides, the subject of the Kitchen Table Series focuses on a story of the female, African-American’s life. These images are more likely to point out women are undervalued within the world generally, and within the art world in particular.</p>
    	<p>The style of the series does not have a time distance between before and now because Weems made the series limited in the normal narrative forms. According to these photos, it shows the different emotion and body movements that are both expressive tool. The series does not give people a feeling of old style. From the perspective of women, this series can be divided into five parts, which shows that the responsibilities of women in the pageant are great and should be taken seriously. For example, a photograph depicts two children sitting around the table are playing games, and Weems sitting opposite the camera is Turn the learning vision into a loving look at his child. From this image, I can feel that women can be successful in their careers, but in the face of family, they tend to give their children or their husbands a warm feeling. Around a table, the light comes from the chandelier above the table; Men, women and children do their own thing around the table. The whole series of photos look very natural and realistic. Another thing to marvel at is the contrast treatment. It is clear to see the details of images such as shadow of light, air conditioning, and different color degree of texture.</p>
-</div>
+
 
 [Know more about Carrie Mae Weems](http://carriemaeweems.net/)
