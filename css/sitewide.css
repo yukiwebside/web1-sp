@@ -44,7 +44,7 @@ body {
 	border: 5px solid #eee;
 	background:#F0F7F7;
 }
-.contex-14th {
+.contex p{
 	width:200px;
 	margin-left:1em;
 	text-align:left;
@@ -52,4 +52,12 @@ body {
 .photo-street {
 	width:600px;
 	height:400px;
+}
+.photo-frank {
+	margin: 3em 0 0 0;
+	padding: 0 1rem ;
+        max-width:550px;
+	display: grid;
+	grid-template-columns: 1fr 1fr ;
+	grid-gap: 1rem;
 }
