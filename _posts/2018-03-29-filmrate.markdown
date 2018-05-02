@@ -1,0 +1,20 @@
+---
+title: "Rate film"
+color: "orange"
+---
+
+<img src="/web1-sp/img/film.jpg" alt="photo of film" class="photo-film">
+<div class="context">
+  <p>Today I have reviewed a light-hearted film, Kung Fu Panda which was directed in 2008. 
+  This film is comedic cartoon which can always give people fun so that it is a good way for
+  people to release pressure. The plot of forty-five minutes showed that lazy panda was addicted 
+  to studying Chinese Kung Fu. One time he was chosen to fight with evil leopard accidentally. 
+  But there was a big problem that the panda actually did not possess an ability to complete this duty. 
+  Then the film showed how the panda was trained as a Kung Fu master to fight evil.</p>
+  <p>The film contains lots of culture of China such as Kung Fu, food, spirits. Although 
+  actions of panda were very silly, a character of the panda is worth for me to studying. 
+  For example, it was hard for panda to study Kung Fu because he was fat. Panda always wanted to give up 
+  learning Kung Fu. When he gained encouragements of others, he could be more confident and possess more 
+  perseverance to finish training. Also, his classmates accompanied him to overcome challenging This phenomenon
+  is called collectivism which belongs to the character of Chinese. Hence, I rate this film at 5 stars. </p>
+</div>
