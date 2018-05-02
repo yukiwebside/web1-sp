@@ -3,7 +3,7 @@ title: "Rate film"
 color: "orange"
 ---
 
-<img src="/web1-sp/img/film.jpg" alt="photo of film" class="photo-film">
+<img src="/web1-sp/img/panda.jpg" alt="photo of film" class="photo-film">
 <div class="context">
   <p>Today I have reviewed a light-hearted film, Kung Fu Panda which was directed in 2008. 
   This film is comedic cartoon which can always give people fun so that it is a good way for
