@@ -22,7 +22,7 @@ color: "Green"
 </div>
 <h3>Distinguish</h3>
     <p>Medicine focuses on treatment of the individual and public health focuses on the wellbeing of communities 
-    or populations of people.</P>
+    or populations of people.</p>
 
 [known more about the Public Health](www.apha.org/what-is-public-health)
 
