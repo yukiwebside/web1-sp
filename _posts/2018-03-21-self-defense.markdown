@@ -3,7 +3,7 @@ title: "How to protect yourself at night?"
 color: "Orange"
 ---
 
-  <h2>Recently final week is coming. When you study very late at school, it is so dangerous to go home, especially for girls. Hence, I have reseached some protection measures for us.</h2>
+ <h2>Recently final week is coming. When you study very late at school, it is so dangerous to go home, especially for girls. Hence, I have reseached some protection measures for us. </h2>
 <div class="context">
   <ul>
     <li>Tip one: Stand your ground, defend yourself and others against bullying and mistreatment and simply don't let others walk all over you.</li>
