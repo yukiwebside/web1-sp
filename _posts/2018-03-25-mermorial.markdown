@@ -1,11 +1,11 @@
 ---
-title: "THE ARCHITECTURE OF MEORIAL--Why is the meorical look like this?"
+title: "THE ARCHITECTURE OF MEORIAL"
 color: "golden"
 ---
 
 <img src="/web1-sp/img/memorial.jpg" alt="photo of memorial" class="photo-memorial">
 <div class="context">
-			<p>Today, I go to visit the Vietnam Veterans Memorial in Washington, D.C, designed by Maya Lin and completed in 1981.
+      <p>Today, I go to visit the Vietnam Veterans Memorial in Washington, D.C, designed by Maya Lin and completed in 1981.
       From the picture, it is obvious that material of the memorial’s wall is granite. In my mind, granite 
       is firm and can stand up for a long time. The color of wall is black and text is white. As a memorial, 
       the designer did bot use colorful text so that it shows appear simplify and transcendent. The memorial is not
