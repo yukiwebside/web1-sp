@@ -43,9 +43,9 @@ body {
 	border: 5px solid #eee;
 	background:#F0F7F7;
 }
-.contex p{
-	margin:25%;
-	text-align:left;
+.contex {
+	width:400px;
+	height:auto;
 }
 .photo-street {
 	width:600px;
@@ -54,9 +54,12 @@ body {
 .photo-frank {
 	margin: 2em 0 0 0;
 	padding: 0 1rem ;
-        max-width:700px;
-	height:500px;
+        max-width:1000px;
 	display: grid;
 	grid-template-columns: 1fr 1fr ;
 	grid-gap: 1rem;
+}
+.title {
+	text-decoration: none;
+	color:#E6770C;
 }
