@@ -5,7 +5,7 @@ color: "Sort of greyish"
 
 <img src="/web1-sp/img/14th.jpg" alt="photo of street" class="photo-street">
 <img src="/web1-sp/img/studio.jpg" alt="photo of street" class="photo-street">
-<div class="context">
+<div class="context-14th">
 			<p>On the map, 14th street is one of the main north-south lines in Washington, DC. 
 				And 14 street has a good geographical position, not just because of the short of 
 				the distance between it and the center, but because it has many services, such as
