@@ -3,4 +3,4 @@ title: "Typography-Film Design"
 color: "Blue"
 ---
 <img src="/web1-sp/img/typofilm.jpg" alt="photo of typofilm" class="photo-typofilm">
-<p class="typofilm>This is the typography of film--<i>BlACK SWAN</i>, designd by my friend Lily.</p>
+<h5 class="typofilm>This is the typography of film--<i>BlACK SWAN</i>, designd by my friend Lily.</h5>
