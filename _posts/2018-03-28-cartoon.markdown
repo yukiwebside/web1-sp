@@ -1,0 +1,25 @@
+---
+title: "Gifts in cartoon"
+color: "grey"
+---
+
+<img src="/web1-sp/img/cartoon.jpg" alt="photo of cartoon" class="photo-cartoon">
+<div class="context">
+  <p>This image is a famous cartoon called BoJack Horseman and made by Tornante Company in Hollywood. 
+  The main character is a horseman called  BoJack who likes drinking Whiskey. He has a horse head, 
+  a human body which is attractive to me firstly. He is a thirty-year-old man who wears a blue sweater, 
+  a black coat and a blue jean and chats with his friend, Todd, at night. The whole cartoon tells us about 
+  BoJack with his partner Todd how to deal with their difficulties in their daily life, which imitate the real life of people.
+  What the most impression on me is that everyone is exposed his or her characters when he or she deals with things,
+  such as lonely, weakness, selfish and what not. However, there are lots of wisdom sentence 
+  in this cartoon which can inspire people solve or challenge trouble in life. </p>
+  <p>On the picture, BoJack has said a sentence with frowning “You know what the problem with everybody? 
+  They all just want to hear what they already believe. No one ever wants to hear the truth. ”
+  It is acknowledged that saying of BoJack reflects a bad phenomenon in the society. 
+  For example, your employer makes a mistake and you make a point to let him or her know. 
+  But he or she will be angry listening to your advice because the employer thinks you make him or she embarrassed. 
+  Also the employer insists his or her ways to do work and has a bad impression on you finally.  
+  If others praise for your employer  and think the way of employer is right at that time, the employer will be very happy.
+  Therefore, lots of employees ingratiate themselves with their employers in order to gain more benefits. 
+  Although people always think cartoons are puerile, BoJack Horseman can teach us some wisdom of life by using comedic way. </p>
+</div>
