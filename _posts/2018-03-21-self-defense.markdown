@@ -13,4 +13,4 @@ color: "Orange"
     <li>Tip five: Don't randomly accept transportation. This goes for girls and guys. Just don't do it. Even if you know them from school or somewhere else, it's just not safe. If you leave with somebody, your chances of survival are greatly diminished.</li>
     <li>Tip six: Take someone with you. If you have the chance to take someone, tell him/her or a group of friends to walk around with you. You'll have a lower chance of being attacked when walking in groups.</li>
     <li>Tip seven: Use technology. Our technology is very advanced.</li>
-   </div>
+</div>
