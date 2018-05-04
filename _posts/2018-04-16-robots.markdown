@@ -1,0 +1,12 @@
+---
+title: "How do robots play the right role in society?"
+color: "golden"
+---
+
+<h2>With the development of society, truth is trying to replace people with machines. 
+Hence, we need to put the robots in a right place.</h2>
+<h3>1. Robots can solve the shortage of workers.</h3>
+<h3>2. Increase productivity.</h3>
+<h3>3. Improve demographic changes and wage pressures.</h3>
+<h3>4. Satisfy needs of customers.<br></h3>
+<ul>such as monitor and collect data on patient health in the hospital.</ul>
