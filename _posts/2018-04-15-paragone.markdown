@@ -1,0 +1,27 @@
+---
+title: "Differences of painting and sculpture"
+color: "green"
+---
+
+<div class="context">
+  <p>During the middle ages, comparison between the different arts and sciences becomes a very popular literary theme, 
+  especially between painting and sculpture. The most important reason for the comparison is that artists can improve
+  their status. The author chose the Leonardo on the relation between painting and sculpture from aspects of poetry,
+  music, and mathematics and so on.</p>
+    <p>In the difference of painting and sculpture, one is that sculptors have much heavier physical work than painters’, 
+    because marbles are much heavier than papers. Therefore, if the sculptors make a mistake, they will start to work on
+    a new marble. But painters can change their ideas on the paper, whose step is easier. In addition, making sculpture 
+    will cause the dirtier environment than making painting. Thirdly, in the sculpture, artists need to create more contours
+    in different directions than painting’s. Because of the three-dimensional, sculptors not only judge the object by their eyes, 
+    but also use professional knowledge and experience. Fourthly, sculpture does not consider much matters like light, shadow, 
+    color, distance, and nearness. Moreover, sculpture is more nature than painting, because sculpture is detached from the wall.
+    Sixthly, painting contains some matters like mental analysis, good painting skills, marvelous, which do not exist in the sculpture. 
+    Painting represents transparent objects but the sculpture shows more nature and reality. </p>
+    <p>Finally, sculpture can be more resistant to humidity than painting. But from the Florence painting, it shows that there is a 
+    glaze on the surface of paints. Hence, this point focuses on the material rather than artists. </p>
+    <p>According to the research of Varchi, he claims that most of famous artist admit that sculpture is nature and reality, and painting is full of skills. 
+    To the argument of the Varchi, the Bronzino shows that if some people stand on the side of sculpture, they will talk about advantages of sculpture 
+    and sculptors’ hard in the aspect of nature, heavy marble or bronze; if people stand on the side of painting, they will show the advantages of 
+    painting in the aspect of skills, light, shadow, distance and whatever. Hence, actually whether it is painting or sculpture, they have their 
+    own advantages and characteristics. They are both worthy to standing in the world.</p>
+</div>
