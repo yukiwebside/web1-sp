@@ -15,12 +15,12 @@ img, object { max-width: 100%; }
 /*	Development/layout aid. Remove the comments
 	on this rule in order to draw boxes around DIVs
 	and other elements used for layout. */
- 
+/* 
 div, main, article, section, aside, hgroup, header, footer, address, nav {
 	border: 1px solid rgba(255,0,0,0.15) !important;
 	background: rgba(255,0,0,0.05) !important;		
 }
-
+*/
 
 /* ------------------------------------------------------------ */
 /* start project-specifc styles below this line */
