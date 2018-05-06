@@ -3,8 +3,8 @@ title: "Whether our privacy has been violated？"
 color: "red"
 ---
 <div class="context">
-  <h2><p>At the launch, Mark did not avoid the big data scandal, saied in the Congress. Here are some of the key words and the number of times 
-  he designed them.<p></h2>
+  <h2>At the launch, Mark did not avoid the big data scandal, saied in the Congress. Here are some of the key words and the number of times 
+  he designed them.</h2>
     <ul>
       <h3><li>Safety, security, data, data privacy</li></h3>
       Sharing business data will reassure the public and attract more people to use.
@@ -21,6 +21,7 @@ color: "red"
       The purpose is that Facebook can help people find partners quickly, such as marriages.
       <h3><li>Say "Sorry"</li></h3>
       Reduce people's prejudice against facebook.
+      </div>
       
 
 [real page of news](https://www.technologyreview.com/s/611037/safety-yes-sorry-no-what-mark-zuckerberg-didand-didntsay-in-his-f8-keynote/)
