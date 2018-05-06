@@ -21,6 +21,7 @@ color: "red"
       The purpose is that Facebook can help people find partners quickly, such as marriages.
       <h3><li>Say "Sorry"</li></h3>
       Reduce people's prejudice against facebook.
+  </ul>
       </div>
       
 
