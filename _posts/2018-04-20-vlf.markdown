@@ -1,0 +1,10 @@
+---
+title: "VLF graphic design"
+color: "golden"
+---
+
+
+<img src="/web1-sp/img/clean.jpg" alt="photo of clean" class="photo-clean">
+<img src="/web1-sp/img/clean1.jpg" alt="photo of clean" class="photo-clean">
+<img src="/web1-sp/img/clean2.jpg" alt="photo of clean" class="photo-clean">
+<img src="/web1-sp/img/clean3.jpg" alt="photo of clean" class="photo-clean">
